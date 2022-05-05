@@ -1,4 +1,4 @@
-## Wilkommen bei local 👋
+## Wilkommen 👋
 
 <!--
 
